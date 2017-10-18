@@ -1,0 +1,502 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\EXL252>cd Desktop
+
+C:\Users\EXL252\Desktop>cd Privé
+
+C:\Users\EXL252\Desktop\Privé>cd "perl development"
+
+C:\Users\EXL252\Desktop\Privé\perl development>cd "Perl leren"
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>perl --version
+
+This is perl 5, version 26, subversion 0 (v5.26.0) built for MSWin32-x64-multi-t
+hread
+
+Copyright 1987-2017, Larry Wall
+
+Perl may be copied only under the terms of either the Artistic License or the
+GNU General Public License, which may be found in the Perl 5 source kit.
+
+Complete documentation for Perl, including FAQ lists, should be found on
+this system using "man perl" or "perldoc perl".  If you have access to the
+Internet, point your browser at http://www.perl.org/, the Perl Home Page.
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>perl testscript.pl
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>perl testscript.pl
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>perl testscript.pl
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>perl testscript.pl klo
+ek
+kloek
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>
+
+
+
+__________ deel 2 10:10 29/09/2017 ____________________-
+
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo
+echo
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+echoekfbzekfererzerzerze
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+echo ekfbzekfe re r ze rze rze
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+echo ekfbzekfe re r ze rze rze
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+String found where operator expected at C:\Users\EXL252\Desktop\PrivÚ\perl devel
+opment\Perl leren\testscript.pl line 2, near "prient "@ARGV\n""
+        (Do you need to predeclare prient?)
+syntax error at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testsc
+ript.pl line 2, near "prient "@ARGV\n""
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+Global symbol "@ARGfV" requires explicit package name (did you forget to declare
+ "my @ARGfV"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\test
+script.pl line 3.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+echo ekfbzekfe re r ze rze rze
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+Global symbol "@ARsGV" requires explicit package name (did you forget to declare
+ "my @ARsGV"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\test
+script.pl line 3.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+echo ekfbzekfe re r ze rze rze
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+Global symbol "@ARsGV" requires explicit package name (did you forget to declare
+ "my @ARsGV"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\test
+script.pl line 3.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+Global symbol "@ARsGV" requires explicit package name (did you forget to declare
+ "my @ARsGV"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\test
+script.pl line 3.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+Global symbol "@ARsGV" requires explicit package name (did you forget to declare
+ "my @ARsGV"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\test
+script.pl line 4.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo ekf
+bzekfe re r ze rze rze
+echo ekfbzekfe re r ze rze rze
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo
+Array found where operator expected at C:\Users\EXL252\Desktop\PrivÚ\perl develo
+pment\Perl leren\testscript.pl line 6, near "echoke @ARGV"
+        (Do you need to predeclare echoke?)
+Global symbol "@params" requires explicit package name (did you forget to declar
+e "my @params"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\te
+stscript.pl line 4.
+Global symbol "@params" requires explicit package name (did you forget to declar
+e "my @params"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\te
+stscript.pl line 5.
+syntax error at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testsc
+ript.pl line 6, near "echoke @ARGV"
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echo
+echo
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echozeaz
+eza
+echozeazeza
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echozeaz
+eza zda
+echozeazeza zda
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echozeaz
+eza zda
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echozeaz
+eza zda  dfqez fzeadzae
+dfqez
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echozeaz
+eza zda  dfqez fzeadzae
+Scalar value @params[2] better written as $params[2] at C:\Users\EXL252\Desktop\
+PrivÚ\perl development\Perl leren\testscript.pl line 6.
+dfqez
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echozeaz
+eza zda  dfqez fzeadzae
+Possible unintended interpolation of @params in string at C:\Users\EXL252\Deskto
+p\PrivÚ\perl development\Perl leren\testscript.pl line 6.
+Array found where operator expected at C:\Users\EXL252\Desktop\PrivÚ\perl develo
+pment\Perl leren\testscript.pl line 7, near "echoke @ARGV"
+        (Do you need to predeclare echoke?)
+Global symbol "@params" requires explicit package name (did you forget to declar
+e "my @params"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\te
+stscript.pl line 6.
+syntax error at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testsc
+ript.pl line 7, near "echoke @ARGV"
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl echozeaz
+eza zda  dfqez fzeadzae
+dfqez
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl ech1oze
+az2eza z3da  df4qez fze5adzae
+Use of uninitialized value $params[2] in concatenation (.) or string at C:\Users
+\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscript.pl line 6.
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl ech1oze
+az2eza z3da  df4qez fze5adzae
+df4qez
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl ech1oze
+az2eza z3da  df4qez fze5adzae
+df4qez
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>taskkill /?
+
+TASKKILL [/S system [/U username [/P [password]]]]
+         { [/FI filter] [/PID processid | /IM imagename] } [/T] [/F]
+
+Description:
+    This tool is used to terminate tasks by process id (PID) or image name.
+
+Parameter List:
+    /S    system           Specifies the remote system to connect to.
+
+    /U    [domain\]user    Specifies the user context under which the
+                           command should execute.
+
+    /P    [password]       Specifies the password for the given user
+                           context. Prompts for input if omitted.
+
+    /FI   filter           Applies a filter to select a set of tasks.
+                           Allows "*" to be used. ex. imagename eq acme*
+
+    /PID  processid        Specifies the PID of the process to be terminated.
+                           Use TaskList to get the PID.
+
+    /IM   imagename        Specifies the image name of the process
+                           to be terminated. Wildcard '*' can be used
+                           to specify all tasks or image names.
+
+    /T                     Terminates the specified process and any
+                           child processes which were started by it.
+
+    /F                     Specifies to forcefully terminate the process(es).
+
+    /?                     Displays this help message.
+
+Filters:
+    Filter Name   Valid Operators           Valid Value(s)
+    -----------   ---------------           -------------------------
+    STATUS        eq, ne                    RUNNING |
+                                            NOT RESPONDING | UNKNOWN
+    IMAGENAME     eq, ne                    Image name
+    PID           eq, ne, gt, lt, ge, le    PID value
+    SESSION       eq, ne, gt, lt, ge, le    Session number.
+    CPUTIME       eq, ne, gt, lt, ge, le    CPU time in the format
+                                            of hh:mm:ss.
+                                            hh - hours,
+                                            mm - minutes, ss - seconds
+    MEMUSAGE      eq, ne, gt, lt, ge, le    Memory usage in KB
+    USERNAME      eq, ne                    User name in [domain\]user
+                                            format
+    MODULES       eq, ne                    DLL name
+    SERVICES      eq, ne                    Service name
+    WINDOWTITLE   eq, ne                    Window title
+
+    NOTE
+    ----
+    1) Wildcard '*' for /IM switch is accepted only when a filter is applied.
+    2) Termination of remote processes will always be done forcefully (/F).
+    3) "WINDOWTITLE" and "STATUS" filters are not considered when a remote
+       machine is specified.
+
+Examples:
+    TASKKILL /IM notepad.exe
+    TASKKILL /PID 1230 /PID 1241 /PID 1253 /T
+    TASKKILL /F /IM cmd.exe /T
+    TASKKILL /F /FI "PID ge 1000" /FI "WINDOWTITLE ne untitle*"
+    TASKKILL /F /FI "USERNAME eq NT AUTHORITY\SYSTEM" /IM notepad.exe
+    TASKKILL /S system /U domain\username /FI "USERNAME ne NT*" /IM *
+    TASKKILL /S system /U username /P password /FI "IMAGENAME eq note*"
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>
+
+_________________ Deel 3 29sept 17 _______________________
+
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl
+Use of uninitialized value $params[1] in concatenation (.) or string at C:\Users
+\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscript.pl line 6.
+
+0
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+vier
+7
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+vier
+7
+7
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+"my" variable @params masks earlier declaration in same scope at C:\Users\EXL252
+\Desktop\PrivÚ\perl development\Perl leren\testscript.pl line 9.
+vier
+7
+7
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+"my" variable @params masks earlier declaration in same scope at C:\Users\EXL252
+\Desktop\PrivÚ\perl development\Perl leren\testscript.pl line 9.
+Bareword "world" not allowed while "strict subs" in use at C:\Users\EXL252\Deskt
+op\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "oblivion" not allowed while "strict subs" in use at C:\Users\EXL252\De
+sktop\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "omnion" not allowed while "strict subs" in use at C:\Users\EXL252\Desk
+top\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "omnivion" not allowed while "strict subs" in use at C:\Users\EXL252\De
+sktop\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "list" not allowed while "strict subs" in use at C:\Users\EXL252\Deskto
+p\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Bareword "world" not allowed while "strict subs" in use at C:\Users\EXL252\Deskt
+op\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "oblivion" not allowed while "strict subs" in use at C:\Users\EXL252\De
+sktop\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "omnion" not allowed while "strict subs" in use at C:\Users\EXL252\Desk
+top\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "omnivion" not allowed while "strict subs" in use at C:\Users\EXL252\De
+sktop\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Bareword "list" not allowed while "strict subs" in use at C:\Users\EXL252\Deskto
+p\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+vier
+7
+7
+world oblivion omnion omnivion list
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+vier
+7
+7
+world oblivion omnion omnivion list
+5
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+vier
+7
+7
+world oblivion omnion omnivion list
+5
+3
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+vier
+7
+7
+world oblivion omnion omnivion list
+5
+3
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Array found where operator expected at C:\Users\EXL252\Desktop\PrivÚ\perl develo
+pment\Perl leren\testscript.pl line 18, near "echoke @ARGV"
+        (Do you need to predeclare echoke?)
+Global symbol "@omnital" requires explicit package name (did you forget to decla
+re "my @omnital"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\
+testscript.pl line 16.
+syntax error at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testsc
+ript.pl line 18, near "echoke @ARGV"
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Array found where operator expected at C:\Users\EXL252\Desktop\PrivÚ\perl develo
+pment\Perl leren\testscript.pl line 19, near "echoke @ARGV"
+        (Do you need to predeclare echoke?)
+Global symbol "@omnital" requires explicit package name (did you forget to decla
+re "my @omnital"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\
+testscript.pl line 16.
+syntax error at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testsc
+ript.pl line 19, near "echoke @ARGV"
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Global symbol "@omnital" requires explicit package name (did you forget to decla
+re "my @omnital"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\
+testscript.pl line 16.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Global symbol "@omnital" requires explicit package name (did you forget to decla
+re "my @omnital"?) at C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\
+testscript.pl line 16.
+Execution of C:\Users\EXL252\Desktop\PrivÚ\perl development\Perl leren\testscrip
+t.pl aborted due to compilation errors.
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+vier
+7
+7
+world oblivion omnion omnivion list
+5
+13
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+vier
+7
+7
+world oblivion omnion omnivion list
+5
+13
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant ("world") in void context at C:\Users\EXL252\Desktop\P
+rivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant ("oblivion") in void context at C:\Users\EXL252\Deskto
+p\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant ("omnion") in void context at C:\Users\EXL252\Desktop\
+PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant ("omnivion") in void context at C:\Users\EXL252\Deskto
+p\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+vier
+7
+7
+list
+list
+13
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>testscript.pl een twee
+ drie vier vijf zes zeven
+Useless use of a constant ("world") in void context at C:\Users\EXL252\Desktop\P
+rivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant ("oblivion") in void context at C:\Users\EXL252\Deskto
+p\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant ("omnion") in void context at C:\Users\EXL252\Desktop\
+PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant ("omnivion") in void context at C:\Users\EXL252\Deskto
+p\PrivÚ\perl development\Perl leren\testscript.pl line 11.
+Useless use of a constant (11) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+Useless use of a constant (12) in void context at C:\Users\EXL252\Desktop\PrivÚ\
+perl development\Perl leren\testscript.pl line 12.
+vier
+7
+7
+Laatste van lijst van woorden : list
+Scalar waarde van omniword: list
+Scalar waarde van omnital: 13
+
+C:\Users\EXL252\Desktop\Privé\perl development\Perl leren>
+
+
+_________________ Deel 4 _______________________
